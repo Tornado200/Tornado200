@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Nemanja Vučić
 
-<!--
-**Tornado200/Tornado200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Embedded Software Engineering Student  
+📍 Novi Sad, Serbia  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🔧 Embedded Systems & Low-level Programming
+- 💻 Strong in C / C++
+- ⚙️ Linux Kernel & RTOS (HAOS)
+- 🔌 Hardware communication (I2C, UART, GPIO)
+- 🧵 Multithreading (pthreads), concurrency
+- 🌐 Client-server systems (sockets)
+
+---
+
+## 🛠️ Tech Stack
+- C / C++
+- Python (basic)
+- Linux, Git, GDB, GCC
+- Raspberry Pi
+
+---
+
+## 📂 Projects
+- 🔹 Embedded Systems (RTOS, drivers)
+- 🔹 Multi-threaded FTP Server (C++)
+- 🔹 Client-Server Applications
+- 🔹 Digital Signal Processing (image/audio)
+- 🔹 Real-time C programming
+
+---
+
+## 📫 Contact
+- 📧 vnemanja2002@gmail.com
+- 🔗 https://www.linkedin.com/in/nemanja-vucic-ra31/
+- 💻 https://github.com/Tornado200
